@@ -9,21 +9,34 @@ Built with a focus on security and performance, the packet filter system allows 
 🔐 Key Features
 Real-Time Packet Capture
 
-Deep Packet Inspection (DPI)
+* Deep Packet Inspection (DPI)
 
-Protocol-Based Filtering (TCP, UDP, ICMP, HTTP, etc.)
+* Protocol-Based Filtering (TCP, UDP, ICMP, HTTP, etc.)
 
-Custom Rule Management (Allow, Block, Log)
+* Custom Rule Management (Allow, Block, Log)
 
-Threat Alert System with notification support
+* Threat Alert System with notification support
 
-Traffic Statistics & Reports (visual dashboards with graphs and logs)
+* Traffic Statistics & Reports (visual dashboards with graphs and logs)
 
-Exportable Logs for further analysis (PCAP, JSON, CSV formats)
+* Exportable Logs for further analysis (PCAP, JSON, CSV formats)
 
-Cross-Platform Compatibility (Windows, Linux, macOS)
+* Cross-Platform Compatibility (Windows, Linux, macOS)
 
 This tool is essential for enhancing perimeter defenses, securing internal networks, and detecting unauthorized access attempts. Whether deployed in a defense data center, enterprise SOC, or research lab, Accurate-Cyber-Defense-Packet-Filter-GUI delivers robust functionality with a clean, responsive design.
 
+## How to clone the repo
+```bash
+
+git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Packet-Filter-Gui.git
+
+cd Accurate-Cyber-Defense-Packet-Filter-Gui
+```
+
+## How to run
+
+```bash
+pythnon3 Accurate-Cyber-Defense-Packet-Filter-Gui.py
+```
 📌 Disclaimer
 This software is intended for ethical, legal, and authorized use only. Unauthorized deployment or malicious usage is strictly prohibited.
